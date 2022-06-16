@@ -1,0 +1,12 @@
+.dashbord-title-container{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.dashbord-documentos-container form{
+    width: 25%;
+}
+
+.dashbord-documentos-container form{
+    display: inline-block;
+}
